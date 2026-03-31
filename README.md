@@ -1,1 +1,1 @@
-hello this is my first github accocunt.
+hello this my github account for mini project.
